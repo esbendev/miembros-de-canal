@@ -15,6 +15,5 @@ Miembros del canal:
  - hmamigo
  - Darh
  - ParaDevOne
- - hmamigo
  - agrega el tuyo!!! :)
 
