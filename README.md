@@ -15,5 +15,6 @@ Miembros del canal:
  - hmamigo
  - Darh
  - ParaDevOne
+ - HolyGrace
  - agrega el tuyo!!! :)
 
