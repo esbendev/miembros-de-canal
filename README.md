@@ -13,6 +13,7 @@ Si no sabes como, te dejo este video donde te explico todo!
 Miembros del canal:
  - esbendev
  - ParaDevOne
+ - hmamigo
  - agrega el tuyo!!! :)
 
 ---
