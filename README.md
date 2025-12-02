@@ -12,10 +12,8 @@ Si no sabes como, te dejo este video donde te explico todo!
 
 Miembros del canal:
  - esbendev
- - ParaDevOne
  - hmamigo
+ - Darh
+ - ParaDevOne
  - agrega el tuyo!!! :)
 
----
-
-**¿Primera vez haciendo un PR?** ¡No te preocupes! Sigue el video y añade tu nombre a la lista 🚀
