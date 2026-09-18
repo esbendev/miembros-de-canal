@@ -18,5 +18,6 @@ Miembros del canal:
  - HolyGrace
  - ACruzDiaz
  - floppJr
+ - JoshuaTerrones
  - agrega el tuyo!!! :)
 
